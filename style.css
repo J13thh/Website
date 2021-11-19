@@ -1,0 +1,49 @@
+@charset "UTF-8";
+@import url("page3background.css");
+/* CSS Document */
+
+body {
+	background-color:#13bc9d;
+}
+.heading{
+	text-align: center;
+}
+.Webdesignpic{
+	width:50%;
+	display:block;
+	margin-left: auto;
+	margin-right:auto; 
+	
+}
+
+.links{
+	text-align: right;
+	margin-right: 15%;
+	font-size: 35px;
+	}
+
+
+a {
+	text-decoration: none;
+	color:black;
+}
+
+.creative{
+	width:30%;
+	display:block;
+	margin-left: 38%;
+	margin-right:auto; 
+}
+
+
+.link3{
+	text-align: center;
+	padding-top: 35%;
+	font-size: 35px;
+	
+	
+	
+	
+}
+
+
